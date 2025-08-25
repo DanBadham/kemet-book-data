@@ -1,0 +1,35 @@
+[
+  {
+    "id": "how-to-read-hieroglyphs",
+    "title": "How to Read Hieroglyphics & Ancient Egyptian Art: Exercises 1",
+    "publisher": "Kemet Scribe Series",
+    "description": "Unlock the mysteries of ancient Egypt, decipher magic spells, the cartouche names, or the titles of the pharaohs.",
+    "coverImage": "images/books/how-to-read-hieroglyphs-1.jpg",
+    "asin": "1912418150",
+    "quote1": "I have a number of books on reading hieroglyphics but really love this one - it's Ideal if you want to learn how to read hieroglyphs, very clear and concise. ",
+    "weight": 1,
+    "featured": true
+  },
+  {
+    "id": "how-to-read-hieroglyphs-2",
+    "title": "How to Read Hieroglyphics & Ancient Egyptian Art: Exercises 2",
+    "publisher": "Kemet Scribe Series",
+    "description": "Unlock the mysteries of ancient Egypt, decipher magic spells, the cartouche names, or the titles of the pharaohs.",
+    "coverImage": "images/books/how-to-read-hieroglyphs-2.jpg",
+    "asin": "1912418207",
+    "quote1": "This book is a great follow-up to the first book in the series. It provides more exercises and deeper insights into reading hieroglyphs.",
+    "weight": 1,
+    "featured": false
+  },
+  {
+    "id": "hieroglyphic-sign-list",
+    "title": "Hieroglyphic Sign List & Vocabulary: Extended Edition",
+    "publisher": "Kemet Scribe Series",
+    "description": "An essential Hieroglyphic Sign List and Vocabulary handbook for learning how to read Hieroglyphics and Ancient Egyptian Art.",
+    "coverImage": "images/books/hieroglyphic-sign-list.jpg",
+    "asin": "1912418061",
+    "quote1": "A comprehensive resource for anyone serious about learning hieroglyphics. The sign list is extensive and well-organised.",
+    "weight": 1,
+    "featured": false
+  }
+]
